@@ -9,4 +9,4 @@ Exclusive reading and writing experience by Angel Tshabalala.
 - Writer studio
 
 ## Live App
-👉 https://itsjadewintersdotcom.github.io/vividreads
+👉 https://itsjadewinters-dotcom.github.io/VividReads-/
